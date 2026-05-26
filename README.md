@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderamarjeet&label=Profile%20views&color=0e75b6&style=flat" alt="coderamarjeet" /> </p>
 
-- 🔭 I’m currently working on [Distributed File Sharing System](https://github.com/CODERAMARJEET/Distributed-File-Searching-System.)
+- 🔭 Latest project I did was [Distributed File Sharing System](https://github.com/CODERAMARJEET/Distributed-File-Searching-System.)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently working on a project on creating a Molecular Dynamics Simulation Software with parallel execution.
 
 - 👯 I’m looking to collaborate on **HPC, DevOps & AI Driven Projects**
 
