@@ -5,11 +5,11 @@
 
 - 🔭 Latest project I did was [Distributed File Sharing System](https://github.com/CODERAMARJEET/Distributed-File-Searching-System.)
 
-- 🌱 I’m currently working on a project on creating a Molecular Dynamics Simulation Software with parallel execution.
+- 🌱 I’m currently working on a project on creating a Molecular Dynamics Simulation Software with parallel execution using C/C++.
 
 - 👯 I’m looking to collaborate on **HPC, DevOps & AI Driven Projects**
 
-- 💬 Ask me about **OpenMP, MPI, CUDA, Slurm, Monitoring Tools, Java, C, AI & ML**
+- 💬 Ask me about **OpenMP, MPI, CUDA, Slurm, Monitoring Tools, Java, C,C++, AI & ML**
 
 - 📫 How to reach me **amarjeet4221official@gmail.com**
 
